@@ -20,7 +20,9 @@ int gia_tri(int a, int b,char toan_tu) {
             printf("invalid operation\n");
             return 0;
     }
+
     return  result;
+
 }
 //int option_cong_tru_nhan_chia(){
     int main(){
