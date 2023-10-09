@@ -24,8 +24,8 @@ int gia_tri(int a, int b,char toan_tu) {
     return  result;
 
 }
-//int option_cong_tru_nhan_chia(){
-    int main(){
+int option_cong_tru_nhan_chia(){
+//    int main(){
         int a ; int b ;
         char toan_tu;
 
