@@ -23,8 +23,8 @@ char xepLoaiSinhVien(int marks){
     return grade;
 
 }
-//int grade(){
-int main(){
+int grade(){
+//int main(){
     int marks ;
 
     printf("Mark >= 90 ==> Grade: A\n");
